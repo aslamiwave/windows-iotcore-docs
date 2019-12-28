@@ -37,6 +37,7 @@ Several Microsoft and NXP partners have enabled Windows 10 IoT Core on commercia
 > | [FS Eletronik Systme armStone A9](https://www.fs-net.de/en/products/armstone/armstonea9/) | [support@fs-net.de](mailto:support@fs-net.de) |
 > | [Geniatech SoM-iMX6Q-Q7](https://www.geniatech.com/product/som-imx6q-q7/) | [Mike Decker](mailto:mike.decker@geniatech.com) or [Fang Jijun](mailto:Fjj@geniatech.com) |
 > | [Geniatech SoM-iMX7D](https://www.geniatech.com/product/som-imx7d/) | [Mike Decker](mailto:mike.decker@geniatech.com) or [Fang Jijun](mailto:Fjj@geniatech.com) |
+> | [iWave's i.MX8QM SMARC Development platform](https://www.iwavesystems.com/product/dev-kits/smarc/nxp-i-mx8-board/imx8-quadmax-smarc-development-kit.html) | [iWave's Sales](mailto:mktg@iwavesystems.com) |
 > | [Ka-Ro Electronics TX6UL, TX6S, TX6DL, and TX6Q](https://www.karo-electronics.de/tx-standard.html?&L=1) | [Uwe Steinkohl](mailto:us@karo-electronics.de) |
 > | [Keith & Koep pConXS](https://keith-koep.com/de/produkte/produkte-baseboards/pconxs-baseboard-vollausstattung-technische-daten/) with [Trizeps VII](https://keith-koep.com/de/produkte/produkte-trizeps/trizeps-vii-technische-daten-imx6/) | [contact@keith-koep.com](mailto:contact@keith-koep.com) |
 > | [Kontron SMARC-sAMX6i](https://www.kontron.com/products/boards-and-standard-form-factors/smarc/smarc-samx6i.html) | [Martin Unverdorben](mailto:martin.unverdorben@kontron.com) |
